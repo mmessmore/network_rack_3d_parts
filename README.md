@@ -89,7 +89,12 @@ stability, however they're not proper "clips" like the original bracket.
 
 I'm trying to make it very stable.
 
-## Disclaimer
+## Disclaimers
 
 Links to Amazon are affiliate links. Using them helps me a bit.  Or don't.
 Whatever.
+
+There is 0 Guarantee here. This may not work for you.  It may blow up your
+3D printer, burn your house down.  Side effects may include heartburn, nausea,
+depression, or death.  Ask your doctor if this project is right for you.  Do
+not use if you are allergic to trial and error.
