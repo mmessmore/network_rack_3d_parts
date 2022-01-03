@@ -1,0 +1,16 @@
+subdirs := $(shell find . -maxdepth 1 -type d -not -name '.*')
+
+SLICER := ''
+
+.PHONY: all
+all:
+	for d in $(subdirs); do \
+		$(MAKE) -C $$d; \
+	done
+
+.PHONY: clean
+clean:
+	for d in $(subdirs); do \
+		$(MAKE) -C $$d clean; \
+	done
+
