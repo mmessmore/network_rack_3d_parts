@@ -10,6 +10,12 @@ all:
 		$(MAKE) -C $$d; \
 	done
 
+.PHONY: stl
+stl:
+	for d in $(subdirs); do \
+		$(MAKE) -C $$d stl; \
+	done
+
 .PHONY: clean
 clean:
 	for d in $(subdirs); do \
