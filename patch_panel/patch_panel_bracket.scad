@@ -1,3 +1,5 @@
+// Copyright (c) 2021 Michael Messmore
+
 include <../project_vars.scad>
 
 // total panel

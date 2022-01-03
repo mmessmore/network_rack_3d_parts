@@ -1,3 +1,5 @@
+# Copyright (c) 2021 Michael Messmore
+
 subdirs := $(shell find . -maxdepth 1 -type d -not -name '.*')
 
 SLICER := ''

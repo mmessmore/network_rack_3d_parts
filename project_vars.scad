@@ -1,4 +1,6 @@
-// mm units
+// Copyright (c) 2021 Michael Messmore
+
+// All units in mm
 
 // basic rack-mount variables
 r_unit = 44;
